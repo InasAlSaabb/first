@@ -43,6 +43,7 @@ dependencies:
   shared_preferences: ^2.1.0
   pin_code_fields: ^7.4.0
   http: ^0.13.6r
+git remote add origin https://github.com/InasAlSaabb/food_ordering.git
   dartz: ^0.10.1
   cached_network_image: ^3.2.3
   image_picker: ^0.8.7+5
